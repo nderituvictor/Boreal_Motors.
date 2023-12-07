@@ -89,7 +89,7 @@ export const saleList = [{
     fuel: '1500CC',
     seat: '8seater Auto transmission'
   },
-  price: ''
+  price: '1,050,000 Negotiable'
 }]
 
 
