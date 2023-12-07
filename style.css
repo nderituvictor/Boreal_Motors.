@@ -115,7 +115,7 @@ body{
   display: none;
 }
 #hero{
-  background: url(images/hero/scott-webb-E0f9iLMTuVQ-unsplash.jpg);
+  background:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.6)), url(images/hero/hero1.jpg);
   height: 90vh;
   width: 100%;
   background-position: top 25% right 0;
@@ -132,9 +132,11 @@ body{
 #hero h1{
   color: #d90429;
 }
+#hero h4, #hero h2, #hero p{
+  color: white;
+}
 #hero button a{
-  background: url(images/hero/button.png);
-  background-color: transparent;
+  background-image:url(images/hero/button.png);
   color: #d90429;
   border: none;
   text-decoration: none;
