@@ -595,6 +595,7 @@ footer .copywrite{
   }
   #hero{
     padding: 0 20px;
+     background-image: url(images/hero/hero11.jpg);
     background-position: 30%;
     background-size: cover;
     background-repeat: no-repeat;
